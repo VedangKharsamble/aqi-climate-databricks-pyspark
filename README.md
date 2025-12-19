@@ -9,6 +9,8 @@ End-to-end Bronze → Silver → Gold data engineering pipeline built using Data
 - Parquet
 - Spark SQL
 
+## Dataset: Climate & AQI Dataset (Kaggle)
+
 ## Architecture (Medallion Pattern)
 Raw Data (CSV)
 → Bronze Layer: Raw ingestion, partitioned by year/month  
