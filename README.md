@@ -9,7 +9,11 @@ End-to-end Bronze → Silver → Gold data engineering pipeline built using Data
 - Parquet
 - Spark SQL
 
-## Dataset: Climate & AQI Dataset (Kaggle)
+## Data Source
+- Indian Climate Dataset (2024–2025)
+- Source: Kaggle
+- Link: https://www.kaggle.com/datasets/ankushnarwade/indian-climate-dataset-20242025
+
 
 ## Architecture (Medallion Pattern)
 Raw Data (CSV)
